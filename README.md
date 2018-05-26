@@ -9,12 +9,12 @@ Friend Finder application is meant to simulate a simple dating app.
 Friend Finder is deployed to Heroku. Please check it out [here](https://still-shelf-35211.herokuapp.com/)
 
 #### *How to install?* ####
-git clone [](git@github.com:alinaeem4321/Friend-Finder.git)
+git clone https://github.com/alinaeem4321/Friend-Finder  
 cd friend-finder 
 
 #### *How to run locally?* ####
-npm install i
-node server.js
+```npm install i  ```
+```node server.js```
 
 #### *Technicle details about the project* ####
 The application is implemented using a **Node.js** and **Express server** on the back end and the **Materialize CSS framework** on the front end.
