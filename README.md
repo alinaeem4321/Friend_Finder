@@ -14,6 +14,7 @@ cd friend-finder
 
 #### *How to run locally?* ####
 ```npm install i  ```
+
 ```node server.js```
 
 #### *Technicle details about the project* ####
